@@ -5,8 +5,8 @@ Simple script to fix the problem of version mismatch in Ionic v3. The problem is
 ```
 $ cd /path/to/project
 $ node version-mismatch.js
-Updating /var/www/app/node_modules/ionic-long-press/ionic-long-press.metadata.json
-Updating /var/www/app/node_modules/ionic-angular/index.metadata.json
-Updating /var/www/app/node_modules/ionic-angular/module.metadata.json
+Updating /path/to/project/app/node_modules/ionic-long-press/ionic-long-press.metadata.json
+Updating /path/to/project/app/node_modules/ionic-angular/index.metadata.json
+Updating /path/to/project/app/node_modules/ionic-angular/module.metadata.json
 ...
 ```
